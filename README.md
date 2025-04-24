@@ -63,7 +63,7 @@ pip install PyQt6 requests
 
 - **Link URL**: 
   ```
-  https://www.example.com/
+  https://www.example.com/ts/
   ```
 - **`.i3u8` Content**:
   ```
