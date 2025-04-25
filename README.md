@@ -97,4 +97,4 @@ When attempting to close the application, a confirmation dialog will appear to p
 - Built with [PyQt6](https://riverbankcomputing.com/software/pyqt/intro) for the GUI.
 - Uses [requests](https://docs.python-requests.org/en/latest/) for HTTP requests.
 
-### \# The `Markdown` file was created by `ChatGPT-4o`
+##### \# The `Markdown` file was created by `ChatGPT-4o`
