@@ -2,7 +2,7 @@
 
 Video-Scraper is a Python-based GUI application designed to download video files from `.i3u8` playlists and optionally merge them into a single `.mkv` file. It provides a user-friendly interface for managing download tasks and supports multithreaded downloading for improved performance.
 
-- To download: <https://github.com/KYM-RIME/Video-Scraper/releases/download/Download/Video-Scraper.exe>
+- To download: <https://github.com/KYM-RIME/Video-Scraper/releases>
 
 ## Features
 
